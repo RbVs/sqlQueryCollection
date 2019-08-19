@@ -1,1 +1,1 @@
-SQLCMD -S <servername> -U <user> -P <password> -d Lagermanagement -Q "Execute sp_test"
+SQLCMD -S <servername> -U <user> -P <password> -d <dbname> -Q "Execute sp_test"
